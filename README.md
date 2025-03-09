@@ -1,6 +1,6 @@
 <h1 align="center">welcome to my GitHub profile 👋, I'm Fadi Nasr</h1>
 <h3 align="center">learning programing language</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmthdTAyNm50N2Q1YXFlaHZ3YXZwdTYzc3Z3bWloMzNuYjY0Y2g2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z3ZHB4Y2dyNnUyMXVoMHY5aDZ4eW81ZjVndDR5cWY1dW55aXczZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
 - 🧑🏽‍🏫 I’m currently learning **programing**
 
 - 📫 How to reach me **nasr.fadi2511@gmail.com**
