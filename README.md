@@ -31,6 +31,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fadi-code2511/fadi-code2511/main/photo_2025-03-05_01-05-52.jpg" alt="My GitHub Banner">
+  <img src="DALL·E 2025-03-09 22.39.42 - A modern and professional GitHub profile banner for a web developer. The design features a dark blue to purple gradient background with a futuristic t.webp" alt="My GitHub Banner">
 </p>
 
