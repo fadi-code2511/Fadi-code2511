@@ -28,3 +28,9 @@
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png"/>
   </a>
 </div>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fadi-code2511/fadi-code2511/main/photo_2025-03-05_01-05-52.jpg" alt="My GitHub Banner">
+</p>
+
