@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div >
-  <a href="https://wa.me/0096181852076">
+  <a href="https://wa.me/">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/130px-WhatsApp.svg.png"/>
   </a>
   <a href="https://www.instagram.com/nasrfadi?igsh=Y3lld3o4OW13MXdt">
